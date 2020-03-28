@@ -1,4 +1,2 @@
 This is a text string.
 this is dileep
-
-thi is sruthi donkey
